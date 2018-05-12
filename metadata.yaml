@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41233'
     url: http://www.gutenberg.org/2009/agents/41233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41550#Nests-and-Eggs-of-Familiar-British-Birds-Second-SeriesDescribed-and-Illustrated--with-an-Acco_
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
 identifiers:
