@@ -1,0 +1,32 @@
+_repo: Nests-and-Eggs-of-Familiar-British-Birds-Second-SeriesDescribed-and-Illustrated--with-an-Acco__41550
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41550-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, H. G. (Henry Gardiner)
+    alias: Adams, Henry Gardiner
+    birthdate: 1811
+    deathdate: 1881
+    gutenberg_agent_id: '41233'
+    url: http://www.gutenberg.org/2009/agents/41233
+description: ''
+gutenberg_issued: '2012-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Great Britain'
+- !lcsh 'Birds -- Nests'
+- !lcsh 'Birds -- Eggs'
+title: 'Nests and Eggs of Familiar British Birds, Second Series
+
+  Described and Illustrated; with an Account of the Haunts and Habits of the Feathered
+  Architects, and their Times and Modes of Building'
+url: http://www.gutenberg.org/ebooks/41550
